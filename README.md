@@ -76,5 +76,6 @@ Arabic · French · English · Italian
 
 ## 📫 Connect with me
 
-* LinkedIn: https://www.linkedin.com/in/ranym-mejri-b42968238/
-* GitHub: github.com/ranym-eng
+* LinkedIn: [Ranym Mejri](https://www.linkedin.com/in/ranym-mejri-b42968238/)
+* GitHub: [github.com/ranym-eng](https://github.com/ranym-eng)
+
