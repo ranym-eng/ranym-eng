@@ -21,6 +21,9 @@ Java · Spring Boot · .NET · PHP Symfony · Python Flask · REST APIs · JEE
 **Frontend & Mobile:**
 Angular · TypeScript · SCSS · Twig · Flutter · FlutterFlow · JavaFX
 
+**Desktop UI:**
+JavaFX
+
 **AI, Data & BI:**
 Machine Learning · XGBoost · Random Forest · K-Means · OpenCV · Power BI · Pandas · NumPy
 
