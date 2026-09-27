@@ -1,84 +1,128 @@
 # Hi, I'm Ranym Mejri 👋
 
-🎓 Fourth-year Cloud Computing Engineering Student at ESPRIT
-☁️ Passionate about Cloud, DevOps, Kubernetes, OpenStack, CI/CD, and cloud-native applications
-💻 Full-stack background with Angular, Spring Boot, .NET, Symfony, JavaFX, Flutter, and Flask
-🚀 Currently looking for a Cloud / DevOps internship opportunity
+### Final-Year Cloud Computing Engineering Student at ESPRIT
+
+I design and automate reliable, scalable cloud infrastructure, with hands-on experience in CI/CD, containerization, observability, and cloud platform operations.
+
+**Currently seeking a final-year internship in Cloud, DevOps, or Platform Engineering.**
 
 ---
 
-## 🔧 Tech Stack
+## Core Expertise
 
-**Cloud & DevOps:**
-OpenStack · Kubernetes · Docker · GitLab CI/CD · Jenkins · Ansible · SonarQube · Microsoft Azure
+**Cloud & Containers**  
+`OpenStack` · `Microsoft Azure` · `Kubernetes` · `Docker` · `Podman`
 
-**Monitoring & Observability:**
-Prometheus · Grafana · Zabbix
+**DevOps & Automation**  
+`GitHub Actions` · `GitLab CI/CD` · `Jenkins` · `Ansible` · `SonarQube`
 
-**Backend:**
-Java · Spring Boot · .NET · PHP Symfony · Python Flask · REST APIs · JEE
+**Observability & Reliability**  
+`Prometheus` · `Grafana` · `Alertmanager` · `Zabbix` · `Health Checks` · `Backup & Recovery`
 
-**Frontend & Mobile:**
-Angular · TypeScript · SCSS · Twig · Flutter · FlutterFlow · JavaFX
+**Backend Development**  
+`Java` · `Spring Boot` · `.NET` · `Symfony` · `Python` · `Flask` · `REST APIs`
 
-**Desktop UI:**
-JavaFX
+**Frontend & Applications**  
+`Angular` · `React` · `TypeScript` · `Flutter` · `FlutterFlow` · `JavaFX`
 
-**AI, Data & BI:**
-Machine Learning · XGBoost · Random Forest · K-Means · OpenCV · Power BI · Pandas · NumPy
+**Data & Databases**  
+`PostgreSQL` · `MySQL` · `SQL Server` · `Firebase` · `Power BI` · `Pandas`
 
-**Databases & Tools:**
-MySQL · SQL Server · Firebase · Git · GitHub · Postman · Swagger · Linux Ubuntu
-
----
-
-## 🚀 Featured Projects
-
-### 🌱 Eco-Ressource B2B
-
-Cloud-native platform for the industrial circular economy.
-Built with Angular, Spring Boot, Kubernetes, OpenStack, GitLab CI/CD, Prometheus, Grafana, and Zabbix.
-
-### 🧪 Test Trace Management Platform
-
-Full-stack platform for centralizing test traces and improving firmware quality analysis.
-Built with Angular, .NET REST API, SQL Server, and Power BI dashboards.
-
-### 🏋️ Gymify – Gym Management System
-
-Web and desktop gym management platform.
-Built with Symfony, Twig, MySQL, JavaFX, real-time features, and AI-assisted services.
-
-### ❤️ Heart Disease Risk Prediction
-
-Machine learning project for heart disease risk prediction.
-Built with Python, Flask, XGBoost, Random Forest, K-Means, and data visualizations.
-
-### 🎓 MyClubLife
-
-Club management web application.
-Built with Angular, PHP, JEE, and MySQL.
+**Systems & Tools**  
+`Linux` · `Git` · `GitHub` · `Caddy` · `Postman` · `Swagger`
 
 ---
 
-## 📜 Certifications
+## Featured Cloud & DevOps Projects
 
-* CCNA: Switching, Routing & Wireless Essentials — Cisco
-* Big Data Engineer – Explorer Award — IBM
-* Frontend Web Development with Angular — BeeCoders
-* Backend Web Development with Spring Boot — BeeCoders
-* Introduction to Cybersecurity — ISTIC Google Club
+### TalentHub — FelCloud Internship
+
+Production platform deployed across three FelCloud virtual machines with isolated application, database, and bastion layers.
+
+- Automated CI/CD, database migrations, health validation, and rollback
+- Operated 10 containerized application and monitoring services
+- Implemented Prometheus, Grafana, and Alertmanager observability
+- Validated PostgreSQL backup and recovery on OpenStack Swift with SHA-256 verification
+
+**Technologies:** OpenStack · Docker · Podman · GitHub Actions · GitLab CI/CD · Caddy · PostgreSQL · Prometheus
+
+### FYP Grading Platform — Sultan Qaboos University
+
+Traceable final-year project evaluation platform developed during a remote internship with Sultan Qaboos University, Oman.
+
+- Containerized the React, Spring Boot, and PostgreSQL architecture
+- Automated image delivery with GitHub Actions
+- Deployed the platform on Microsoft Azure with HTTPS and health checks
+
+**Technologies:** Azure · Docker · GitHub Actions · Spring Boot · React · PostgreSQL
+
+[View repository](https://github.com/ranym-eng/FYP-Online-Grading-Platform)
+
+### Eco-Resource B2B
+
+Hybrid cloud platform for exchanging reusable industrial resources between companies.
+
+- Built the private-cloud foundation with OpenStack
+- Automated a multi-node Kubernetes deployment with Ansible
+- Connected an Azure-hosted Angular frontend to a Spring Boot backend
+- Implemented infrastructure monitoring with Prometheus, Grafana, and Zabbix
+
+**Technologies:** OpenStack · Kubernetes · Ansible · Azure · GitLab CI/CD · Angular · Spring Boot
+
+[Frontend repository](https://github.com/ranym-eng/eco-ressource-b2b-frontend) ·
+[Backend repository](https://github.com/ranym-eng/eco-ressource-b2b-backend)
 
 ---
 
-## 🌍 Languages
+## Software & Data Projects
+
+### Test Traceability Platform — Sagemcom
+
+Centralized platform for firmware test traces, production indicators, and quality reporting.
+
+**Technologies:** Angular · .NET · SQL Server · Power BI
+
+[Frontend repository](https://github.com/ranym-eng/test-trace-management-frontend) ·
+[Backend repository](https://github.com/ranym-eng/Web-based-test-logging-management-system)
+
+### Gymify
+
+Web and desktop platform for gym memberships, classes, events, and community workflows.
+
+**Technologies:** Symfony · JavaFX · MySQL · WebSocket
+
+[Web repository](https://github.com/ranym-eng/Gymify-symfony) ·
+[Desktop repository](https://github.com/ranym-eng/Gymify-desktop)
+
+### Heart Risk Prediction
+
+Interactive machine-learning application for risk prediction, patient classification, and clustering.
+
+**Technologies:** Python · XGBoost · Random Forest · K-Means · Streamlit
+
+[Live demo](https://ml-heartdisease-33xtbcsv2lig92i98ev6uw.streamlit.app/) ·
+[Repository](https://github.com/ranym-eng/ML-heartdisease)
+
+---
+
+## Certifications
+
+- CCNA: Switching, Routing and Wireless Essentials — Cisco
+- Big Data Engineer Explorer Award — IBM
+- Frontend Web Development with Angular — BeeCoders
+- Backend Web Development with Spring Boot — BeeCoders
+- Introduction to Cybersecurity — ISTIC Google Club
+
+---
+
+## Languages
 
 Arabic · French · English · Italian
 
 ---
 
-## 📫 Connect with me
+## Contact
 
-* LinkedIn: [Ranym Mejri](https://www.linkedin.com/in/ranym-mejri-b42968238/)
-* GitHub: [github.com/ranym-eng](https://github.com/ranym-eng)
-
+[LinkedIn](https://www.linkedin.com/in/ranym-mejri-b42968238/) ·
+[GitHub](https://github.com/ranym-eng) ·
+[Email](mailto:ranymmejri1@gmail.com)
